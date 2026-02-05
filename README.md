@@ -10,3 +10,7 @@ Covering the recent Notepad++ supply chain compromise by Chinese APT group Lotus
 🌐 Part C — Network IOCs (Search 25-39) 9 C2 IPs (Vultr, Alibaba, Tencent Cloud) and 7 C2 domains (including WireGuard typosquat). Covers Sysmon, firewalls (OPNsense), ZenArmor NGFW (all 5 sourcetypes), DNS resolution, proxy logs, TLS/SNI inspection, IDS alerts, suspicious User-Agent strings, and GUP.exe (Notepad++ updater) abuse detection.
 
 ✅ All searches available in both raw SPL and CIM Data Model (tstats) versions for maximum compatibility.
+
+
+
+source : https://x.com/cyb3rops/status/2019019447218942250
